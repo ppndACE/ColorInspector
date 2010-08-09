@@ -20,8 +20,6 @@
 -(IBAction)newDocument:(id)sender{
 	NSLog(@"%s", __FUNCTION__);
 	
-	//NSLog(@"manager: %@", self.documentManager);
-	
 	[self.documentManager newDocument:sender];
 }
 
