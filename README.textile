@@ -1,0 +1,8 @@
+h1. ColorInspector
+
+ColorInspector picks RGB pixel value from images. It's a purpose-specific and light-weighted application. Launches much faster than Photoshop.
+
+h2. Contact
+
+* "http://blog.boreal-kiss.net/":http://blog.boreal-kiss.net/
+* "http://twitter.com/borealkiss":http://twitter.com/borealkiss
